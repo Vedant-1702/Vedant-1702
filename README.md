@@ -47,8 +47,3 @@ BI & Visualization:
 Other:
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) <img src="https://camo.githubusercontent.com/a0b7a6f5fa636f592c51e1c8ca54f84a3d4868ae4f8fcb026483e2e583d54464/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476f6f676c652532305368656574732d3334413835333f7374796c653d666c6174266c6f676f3d676f6f676c65736865657473266c6f676f436f6c6f723d7768697465" alt="Google Sheets" data-canonical-src="https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&amp;logo=googlesheets&amp;logoColor=white" style="max-width: 100%;">
-
- Featured Projects:
-
- 
- 
